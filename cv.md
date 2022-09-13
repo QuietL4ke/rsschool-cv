@@ -20,4 +20,4 @@ _Yumasoft_  06/06/2021 – Present
 3. Worked with feature tests on ruby and debugged them.
 
 ## Education
-Fourth-year student: BSU, FAMI.
+Fourth-year student: BSU, FAMI!
